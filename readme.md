@@ -4,7 +4,7 @@ Worko backend is a Node.js application that manages user data with endpoints to 
 
 I made this project for an internship assignment which is to be reviewed by a hiring manager (pls give me the job bro 🙏).
 
-You are free to this project as a template for your projects or tests.
+You are free to use this project as a template for your projects or tests.
 
 ## Technologies Used
 
