@@ -2,13 +2,13 @@
 
 Worko backend is a Node.js application that manages user data with endpoints to create, read, update, and delete user information. This project includes authorization.
 
-I made this project for an internship assignment which is to be reviewed by a hiring manager (pls give me the job bro 🙏).
+I made this backend for an internship assignment which is to be reviewed by a hiring manager (pls give me the job bro 🙏).
 
 You are free to use this project as a template for your projects or tests.
 
 ## Technologies Used
 
-Below are the technologies and tools used in the development of Workotwerko:
+Below are the technologies and tools used in the development of this project:
 
 - **Node.js** - JavaScript runtime environment
 - **Express.js** - Web application framework for Node.js
