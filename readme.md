@@ -172,4 +172,4 @@ Replace the placeholder values with your actual database credentials and desired
 
 ---
 
-Thank you for reviewing the Workotwerko project. If you have any questions, please feel free to reach out.
+Thank you for reviewing the worko project. If you have any questions, please feel free to reach out.
