@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed on your machine:
 
     ```bash
     git clone https://github.com/kvkcodes/worko-backend.git
-    cd workotwerko
+    cd worko_backend
     ```
 
 2. Install the dependencies:
